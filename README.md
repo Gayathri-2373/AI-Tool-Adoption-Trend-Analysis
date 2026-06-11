@@ -72,7 +72,7 @@
             
             SciPy
          
-         Jupyter Notebook or vs code or Google collab
+         Jupyter Notebook 
          
          GitHub
          
