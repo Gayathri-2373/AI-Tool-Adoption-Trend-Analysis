@@ -1,4 +1,5 @@
 🤖 AI Tool Adoption Trend Analysis
+
 📌 Project Overview
 
 This project analyzes AI tool adoption trends across various industries, company sizes, countries, and user groups. Using data analytics and visualization techniques, the project identifies which AI tools are being adopted the fastest, which industries lead adoption, and the factors influencing AI usage.
@@ -21,17 +22,29 @@ Are there hidden trends in AI adoption behavior?
 The dataset contains information about AI adoption across different organizations and users.
 
 Dataset Features
+
 Column Name	Description
+
 country	Country of the organization
+
 industry	Industry sector
+
 ai_tool	AI tool being used
+
 adoption_rate	Percentage of AI adoption
+
 daily_active_users	Number of active users
+
 year	Year of adoption
+
 user_feedback	User feedback score
+
 age_group	Age category of users
+
 company_size	Startup, SME, or Enterprise
+
 Dataset Statistics
+
 Total Records: 145,000
 Total Features: 9
 Missing Values: 0
