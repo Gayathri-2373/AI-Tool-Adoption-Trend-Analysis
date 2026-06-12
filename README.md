@@ -100,7 +100,7 @@ AI-Tool-Adoption-Trend-Analysis/
 
 ├── reports/
 
-│   └── trend_report.pdf
+│   └── report.pdf
 
 │
 
